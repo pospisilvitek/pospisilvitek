@@ -6,4 +6,3 @@
 
 ### Links 
 - [Linkedin](https://www.linkedin.com/in/vítek-pospíšil-091b41370)
-- [Gmail](mailto:vipospisiltek@gmail.com)
