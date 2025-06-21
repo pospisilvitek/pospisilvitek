@@ -1,5 +1,7 @@
 ## Hi, my name is Vítek Pospíšil!
 
+C# | Unity | Git
+
 ### Portfolio
 I'm junior **C# developer** based in Prague. I started gaining experience during my studies, where I learned **console applications in C#.** Currently, I'm focused on **game development in the Unity engine**, where I also create my own game assets. I'm always open to learning and exploring new areas.
 
