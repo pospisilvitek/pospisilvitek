@@ -11,7 +11,7 @@ I started gaining experience during my studies, where I learned **console applic
 ---
 
 ### 📫 Contact
-Feel free to reach out to me on [Linkedin](https://www.linkedin.com/in/vítek-pospíšil-091b41370).
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/vítek-pospíšil-091b41370).
 
 ---
 
