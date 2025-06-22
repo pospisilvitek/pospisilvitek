@@ -19,4 +19,13 @@ Feel free to reach out to me on [Linkedin](https://www.linkedin.com/in/vítek-po
 - 🦾 My first console application [Personal records database]() 
 - 🎮 My First Unity Game [Cube]()
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pospisilvitek&show_icons=true&theme=radical)
+### 🧰 Tech Stack
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+
+### 🧪 Currently Learning
+- 📘 Advanced C# (delegates, LINQ, async/await)
+- 🎮 Unity 2D/3D workflows
+- 🎨 Level design and asset optimization
+
