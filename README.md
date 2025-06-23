@@ -23,5 +23,6 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/vítek-po
 
 **Old projects:**
 - 🦾 My first console application [Personal records database](https://github.com/pospisilvitek/personal-records-database) 
-- 🎮 My first Unity game Cube
+- 🎮 My first Unity game [Cube](https://github.com/pospisilvitek/cube) 
+
 
