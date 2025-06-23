@@ -18,7 +18,7 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/vítek-po
 ### 👨‍💻 Personal Projects
 
 **Currently working on:**
-- 🤖 My first 2D Unity game Robojumper
+- 🤖 My first 2D Unity game [Robojumper](https://github.com/pospisilvitek/robojumper) 
 
 **Old projects:**
 - 🦾 My first console application [Personal records database](https://github.com/pospisilvitek/personal-records-database) 
