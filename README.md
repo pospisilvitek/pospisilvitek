@@ -16,7 +16,6 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/vítek-po
 ---
 
 ### 👨‍💻 Personal Projects
-*(More coming soon!)*
 
 **Currently working on:**
 - 🤖 My second Unity game Robojumper
